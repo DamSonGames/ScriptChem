@@ -3,6 +3,7 @@ A simplified JS version of SpaceChem
 
 Welcome to ScriptChem.
 This simplified JS version of the Zachtronics puzzle game SpaceChem was created in a short time just for fun.
+To play, please ope Home.html
 
 Your goal is to get numbers from the blue input box and output them in the orange output box.
 You will get two numbers. You will have to add or subtract them, and then output them.
